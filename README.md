@@ -6,7 +6,9 @@ Processing 3.5.2.
 El repositorio consta de:
 
 -El archivo pde donde se desarrolla todo el código
+
 -La carpeta /data donde estan todos los modelos y sus texturas
+
 -Gif que muestra el funcionamiento del programa
 
 # Resultado final
